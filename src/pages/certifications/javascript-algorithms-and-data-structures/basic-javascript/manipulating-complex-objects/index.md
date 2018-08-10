@@ -3,7 +3,29 @@ title: Manipulating Complex Objects
 ---
 ## Manipulating Complex Objects
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/certifications/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+
+
+
+In this task you have a easy way to complete it.
+
+var myMusic = [
+  [],
+  {
+    "artist": "Billy Joel",
+    "title": "Piano Man",
+    "release_year": 1973,
+    "formats": [ 
+      "CD",
+      "8T",
+      "LP"
+    ],
+    "gold": true
+  }
+  // Add record here
+  
+];
+
+
 
 <a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
 
